@@ -27,10 +27,10 @@ const App = () => {
     <div>
       <h1>Items</h1>
       {/* <Practice/> */}
-      {/* <CompA a={a}/>
+      {/* <CompA a={a}/> */}
     <CompB obj={obj}/>
-    <CompC arr={arr}/>
-    <CompD arrobj={arrobj}/> */}
+    {/* <CompC arr={arr}/> */}
+    {/* <CompD arrobj={arrobj}/> */}
       <Product cartFunction={cartFunction} />
     </div>
   );
